@@ -12,6 +12,7 @@ package mypack;
 public class NewClass {
     private int id;
     private String name;
+    private String address;
 
     public int getId() {
         return id;
